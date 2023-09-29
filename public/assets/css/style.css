@@ -1,0 +1,60 @@
+body{
+    width: 90%;
+    margin: 5%;
+}
+Contenu h2{
+    border-color: rgb(62, 34, 105);
+    text-align: center;
+}
+Contenu p{
+text-align: center;
+color: rgb(20, 12, 77);
+
+}
+Contenu{
+
+}
+present{
+    border-style: solid;
+    border-color: blue;
+}
+savoirfaire{
+    border-style: solid;
+    border-color: rgb(143, 125, 160);
+}
+savoiretre{
+    border-style: solid;
+    border-color: rgb(141, 193, 22);
+}
+formation {
+    border-style: solid;
+    border-color: rgb(255, 0, 149);
+}
+experiences{
+    border-style: solid;
+    border-color: rgb(9, 9, 10);
+}
+centreinteret{
+    border-style: solid;
+    border-color: rgb(255, 0, 21);
+}
+language{
+    border-style: solid;
+    border-color: rgb(0, 149, 255);
+}
+logiciel{
+    border-style: solid;
+    border-color: rgb(85, 32, 103); 
+}
+portfolio{
+    border-style: solid;
+    border-color: rgb(0, 132, 255);
+}
+reseauxsociaux{
+    border-style: solid;
+    border-color: rgb(0, 255, 208);
+}
+contact{
+    border-style: solid;
+    border-color: rgb(255, 77, 0);
+}
