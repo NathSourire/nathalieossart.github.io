@@ -3,8 +3,10 @@
 body {
     font-family: 'EB Garamond', serif;
 }
-body p {
-    size: 30px;
+#cvnumerique p {
+    font-size:  20px;
+    text-align: center;
+    color: rgb(20, 12, 77);
 }
 
 #contenu h2 {
@@ -12,64 +14,50 @@ body p {
     text-align: center;
 }
 
-#contenu p {
-    text-align: center;
-    color: rgb(20, 12, 77);
-}
-
 #present {
-    border-style: solid;
-    border-color: blue;
+    border: blue solid;
 }
 
 #savoirfaire {
-    border-style: solid;
-    border-color: rgb(143, 125, 160);
+    border: rgb(143, 125, 160) solid;
 }
 
 #savoiretre {
-    border-style: solid;
-    border-color: rgb(141, 193, 22);
+    border: rgb(141, 193, 22) solid;
 }
 
 #formation {
-    border-style: solid;
-    border-color: rgb(255, 0, 149);
+    border: rgb(255, 0, 149) solid;
 }
 
 #experiences {
-    border-style: solid;
-    border-color: rgb(9, 9, 10);
+    border: rgb(9, 9, 10) solid;
 }
 
 #centreinteret {
-    border-style: solid;
-    border-color: rgb(255, 0, 21);
+    border: rgb(255, 0, 21) solid;
 }
 
 #language {
-    border-style: solid;
-    border-color: rgb(0, 149, 255);
+    border: rgb(0, 149, 255) solid;
 }
 
 #logiciel {
-    border-style: solid;
-    border-color: rgb(85, 32, 103);
+    border: rgb(85, 32, 103) solid;
 }
 
 #portfolio {
-    border-style: solid;
-    border-color: rgb(0, 132, 255);
+    border: rgb(0, 132, 255) solid;
 }
 
 #reseauxsociaux {
-    border-style: solid;
-    border-color: rgb(0, 255, 208);
+    border: rgb(0, 255, 208) solid;
 }
 
 #contact {
-    border-style: solid;
-    border-color: rgb(255, 77, 0);
+    border: rgb(255, 77, 0) solid;
 }
 
-
+.navbar li{
+    font-size:  25px;
+}
